@@ -16,7 +16,7 @@ Offizielle Dokumentation: https://www.zigbee2mqtt.io/guide/getting-started
   - [Warum werden Geräte in ioBroker nach dem löschen aus z2m nicht auch gelöscht? ](#warum-werden-geräte-in-iobroker-nach-dem-löschen-aus-z2m-nicht-auch-gelöscht-)
 
 
-## Verbidung/Konfigurationsseite zu Zigbee2MQTT wird nicht angezeigt im ioBroker <a name="1"></a>
+## Verbindung/Konfigurationsseite zu Zigbee2MQTT wird nicht angezeigt im ioBroker <a name="1"></a>
 Ausgangssituattion:
 
 Nutzt man im ioBroker Admin eine verschlüsselte Verbindung über HTTPS lädt der Browser die eingebettete Zigbee2MQTT UI nicht.
